@@ -1,0 +1,11 @@
+main {
+  background-image: url("../../assets/img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  justify-content: center;
+}

@@ -1,0 +1,44 @@
+.player {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.player-cards-container {
+  display: flex;
+  align-items: end;
+}
+
+.player-cards-container img {
+  margin: 0vw 4vw -6vw 4vw;
+  height: 13vw;
+  cursor: pointer;
+  transition: .3s ease;
+}
+
+
+.player-cards-container img:hover {
+  margin: 0vw 4vw -2vw 4vw;
+}
+
+.player-img-container {
+  height: 20vh;
+  display: flex;
+  align-items: flex-end;
+}
+
+.player-img-container p {
+  width: 18vw;
+  height: 11vh;
+  background-image: url("../../assets/img/lf_player.png");
+  background-size: 22vw;
+  background-repeat: no-repeat;
+  color: yellow;
+  font-size: 5vw;
+  padding-left: 4vw;
+  font-family: 'Teko', sans-serif;
+}
+
+.player-img-container img:nth-child(2) {
+  height: inherit;
+}

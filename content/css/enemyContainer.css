@@ -1,0 +1,47 @@
+.enemy {
+  display: flex;
+  justify-content: space-between;
+}
+
+.enemy-img-container {
+  height: 20vh;
+  display: flex;
+  align-items: baseline;
+}
+
+.enemy-img-container img {
+  height: inherit;
+}
+
+
+.enemy-cards-container {
+  display: flex;
+  align-items: start;
+}
+
+.enemy-cards-container img {
+  margin: -4vw 4vw 0 4vw;
+  height: 13vw;
+  cursor: pointer;
+  transition: .3s ease;
+}
+
+.enemy-cards-container img:hover {
+  margin: -2vw 4vw 0 4vw;
+}
+
+.enemy-img-container p {
+  width: 24vw;
+  height: 11vh;
+  background-image: url("../../assets/img/lf_computer.png");
+  background-size: 22vw;
+  background-repeat: no-repeat;
+  color: yellow;
+  font-size: 5vw;
+  padding-left: 4vw;
+  font-family: 'Teko', sans-serif;
+}
+
+.enemy-img-container img:nth-child(1) {
+  height: inherit;
+}

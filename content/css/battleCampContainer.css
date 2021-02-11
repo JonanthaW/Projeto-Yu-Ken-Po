@@ -1,0 +1,15 @@
+.battle-camp {
+  align-items: center;
+  display: flex;
+}
+
+.in-camp-cards {
+  display: flex;
+  width: 100vw;
+  justify-content: space-around;
+}
+
+.in-camp-cards img {
+  height: 21vw;
+  position: relative;
+}
