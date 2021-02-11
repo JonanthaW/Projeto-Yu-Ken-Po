@@ -8,6 +8,6 @@ Uma recriação do jogo "Pedra, Papel, Tesoura", mas utilizando "Yu-Gi-Oh!" como
 
 ### Tela da aplicação
 
-![image](https://github.com/JonanthaW/HangmanCake/blob/main/assets/example1.jpg)
-![image](https://github.com/JonanthaW/HangmanCake/blob/main/assets/example2.jpg)
+![image](https://github.com/JonanthaW/Yu-Ken-Po/blob/main/assets/example1.jpg)
+![image](https://github.com/JonanthaW/Yu-Ken-Po/blob/main/assets/example2.jpg)
 # Yu-Ken-Po
