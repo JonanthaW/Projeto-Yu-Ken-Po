@@ -16,8 +16,10 @@ Uma recriação do jogo "Pedra, Papel, Tesoura", utilizando "Yu-Gi-Oh!" como tem
 ![image](https://github.com/JonanthaW/Yu-Ken-Po/blob/main/assets/example1.jpg)
 ![image](https://github.com/JonanthaW/Yu-Ken-Po/blob/main/assets/example2.jpg)
 
-### :computer: Baixando o conteúdo:
+### :computer: Downloading content
+
+<p>Feel free to download this repository and use it however you like. </p>
 
 ```bash
-$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+$ git clone https://github.com/JonanthaW/Yu-Ken-Po.git
 ```
